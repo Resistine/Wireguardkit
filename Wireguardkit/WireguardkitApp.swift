@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import NetworkExtension
 
 @main
 struct WireguardkitApp: App {
